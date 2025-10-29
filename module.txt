@@ -1,8 +1,8 @@
 streamlit
+pyvis
 random
 numpy
 itertools
 matplotlib
 math
-pyvis
 networkx
