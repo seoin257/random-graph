@@ -1,4 +1,4 @@
 streamlit
-pyvis==0.3.3
+pyvis
 networkx
 matplotlib
