@@ -1,7 +1,5 @@
 streamlit
-Network
 numpy
 itertools
 matplotlib
 math
-networkx
