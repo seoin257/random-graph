@@ -1,5 +1,6 @@
 streamlit
-pyvis==0.3.2
+pyvis
+pyvis.networkx
 random
 numpy
 itertools
