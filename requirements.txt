@@ -1,7 +1,5 @@
 streamlit
-pyvis
-pyvis.networkx
-random
+Pyvis
 numpy
 itertools
 matplotlib
