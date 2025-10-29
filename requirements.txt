@@ -1,5 +1,5 @@
 streamlit
-Pyvis
+Network
 numpy
 itertools
 matplotlib
