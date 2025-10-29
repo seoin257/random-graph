@@ -34,4 +34,4 @@ else:
     st.warning("연결되지 않은 그래프")
 
 deg=sum(dict(G.degree()).values())
-st.write(f"평균 차수: {deg:.2f}")
+st.write(f"평균 차수: {deg/n:.2f}")
