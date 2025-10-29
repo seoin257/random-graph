@@ -1,5 +1,5 @@
 streamlit
 numpy
 itertools
-matplotlib
+matplotlib.pyplot
 math
